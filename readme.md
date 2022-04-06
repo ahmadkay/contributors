@@ -1,1 +1,2 @@
 - [Jamilu Salisu](https://github.com/jamilusalism)
+- [Ishaka Musa](https://github.com/EshaqqMi)
