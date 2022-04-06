@@ -1,1 +1,2 @@
 - [Jamilu Salisu](https://github.com/jamilusalism)
+- [Ahmad-Kamal Abdullahi](https://github.com/ahmadkay)
